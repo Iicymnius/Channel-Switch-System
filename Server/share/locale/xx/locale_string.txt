@@ -1,0 +1,23 @@
+"CANNOT_CHANGE_CHANNEL";
+"Þu anda kanal deðiþtiremezsin.";
+
+"Channel switch starting.";
+"Kanal deðiþtiriliyor.";
+
+"Usage: channel <new channel>";
+"Kullaným: Kanal <Yeni Kanal>";
+
+"Please enter a valid channel.";
+"Lütfen geçerli bir kanal seç.";
+
+"You are already on channel %d";
+"Zaten %d kanalýndasýn.";
+
+"The map you are at is cross-channel, changing won't have any effect.";
+"Ortak kanalda bulunan bir haritada bulunduðunuz için kanal deðiþtirmeniz bir þey ifade etmeyecek.";
+
+"You cannot change channel while in a dungeon.";
+"Zindandayken kanal deðiþtiremezsin.";
+
+"Channel switch in %d seconds.";
+"%d saniye içinde kanal deðiþtiriliyor.";
